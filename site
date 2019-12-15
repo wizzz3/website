@@ -8,9 +8,6 @@ div.a {
 </head>
 <body>
 <style>
-.container-fluid > .row:first-of-type > div:not(:only-child) {
-  z-index: 1;
-}
 
 .button {
   background-color: #4CAF50; /* Green */
